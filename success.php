@@ -22,9 +22,9 @@
 
         $email = $_POST['your_email'];
 
-        $phone = $_POST['subject'];
+        $subject = $_POST['subject'];
 
-        $list = $_POST['message'];
+        $message = $_POST['message'];
 
         // $company = $_POST['company_size'];
 
@@ -44,11 +44,11 @@
 
 
 
-        $message = "Name: $name\nEmail: $email\nPhone: $phone \nCompany Size: $list";
+        $message = "Name: $name\nEmail: $email\nPhone: $subject \nCompany Size: $message";
 
-        $to = 'nouman.haider4881@gmail.com';
+        $to = 'doctors@goflare.com';
 
-        $subject = 'Contact Form Submission from Nouman Haider Portfolio';
+        $subject = 'Contact Form Submission';
 
         $mail_sent = mail($to, $subject, $message, $header);
 
@@ -204,10 +204,10 @@
     <footer class="footer py-4">
       <div class="container d-md-flex align-items-center justify-content-between py-2 text-center text-md-end">
         <ul class="list-inline fs-sm mb-3 mb-md-0 order-md-2">
-          <li class="list-inline-item my-1"><a class="nav-link-style" href="">Contact Us Now</a></li>
+          <li class="list-inline-item my-1"><a class="nav-link-style" href=""></a></li>
          
         </ul>
-        <p class="fs-sm mb-0 me-3 order-md-1"><span class="text-muted me-1">© All rights reserved. Made by</span><a class="nav-link-style fw-normal" href="https://goflare.com" target="_blank" rel="noopener">Goflare Digital Solutions</a></p>
+        <p class="fs-sm mb-0 me-3 order-md-1"><span class="text-muted me-1">© All rights reserved. Made by</span><a class="nav-link-style fw-normal" href="#" target="_blank" rel="noopener">Nouman Haider</a></p>
       </div>
     </footer>
     <!-- Back to top button--><a class="btn-scroll-top" href="#top" data-scroll data-fixed-element><span class="btn-scroll-top-tooltip text-muted fs-sm me-2">Top</span><i class="btn-scroll-top-icon ai-arrow-up">   </i></a>
