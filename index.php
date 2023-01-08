@@ -94,7 +94,7 @@
         <div class="col-lg-6 offset-lg-1 wow fadeInRight">
           <h1 class="fw-light">Nouman Haider</h1>
           <h5 class="fg-theme mb-3">Web Developer</h5>
-          <p class="text-muted">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form but the majority have suffered alteration in some</p>
+          <p class="text-muted">Web developer with a strong focus on quality and attention to detail, committed to delivering top-notch web solutions for clients. With a strong foundation in front-end web development and a focus on staying up-to-date on the latest industry trends, I am well-equipped to take on a wide range of web projects as a web developer.</p>
           <ul class="theme-list">
             <li><b>From: </b>Jhelum, Pakistan</li>
             <li><b>Email: </b> <a href="mailto:nouman.haider4881@gmail.com" style="text-decoration: none;">nouman.haider4881@gmail.com</a> </li>
@@ -163,27 +163,27 @@
           <h2 class="fw-normal">Education</h2>
           <ul class="timeline mt-4 pr-md-5">
             <li>
-              <div class="title">2010</div>
+              <!-- <div class="title">2021</div> -->
               <div class="details">
-                <h5>Specialize of course</h5>
-                <small class="fg-theme">University of Study</small>
-                <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered</p>
+                <h5>Bachelors Of Computer Sciences</h5>
+                <small class="fg-theme">University of Punjab</small>
+                <p>Hold a Bachelor's degree in Computer Science, with a strong foundation in computer science principles and the ability to apply them to real-world problems</p>
               </div>
             </li>
             <li>
-              <div class="title">2009</div>
+              <!-- <div class="title">2017</div> -->
               <div class="details">
-                <h5>Specialize of course</h5>
-                <small class="fg-theme">University of Study</small>
-                <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered</p>
+                <h5>FSC Pre Engineering</h5>
+                <small class="fg-theme">Bukhari College Jhelum</small>
+                <p>Hold a FSC Pre-Engineering degree, with coursework in math and science fundamentals and a strong foundation in engineering principles.</p>
               </div>
             </li>
             <li>
-              <div class="title">2008</div>
+              <!-- <div class="title">2015</div> -->
               <div class="details">
-                <h5>Specialize of course</h5>
-                <small class="fg-theme">University of Study</small>
-                <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered</p>
+                <h5>Matriculation </h5>
+                <small class="fg-theme">Govt. High School</small>
+                <p>Matriculation with a focus on building a strong foundation in the core subjects necessary for success in higher education and beyond</p>
               </div>
             </li>
           </ul>
@@ -192,26 +192,26 @@
           <h2 class="fw-normal">Experience</h2>
           <ul class="timeline mt-4 pr-md-5">
             <li>
-              <div class="title">2017 - Current</div>
+              <!-- <div class="title">2022 - Current</div> -->
               <div class="details">
-                <h5>Specialize of course</h5>
-                <small class="fg-theme">University of Study</small>
+                <h5>Web Developer</h5>
+                <small class="fg-theme">Goflare Digital Solutions</small>
                 <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered</p>
               </div>
             </li>
             <li>
-              <div class="title">2014</div>
+              <!-- <div class="title">2021</div> -->
               <div class="details">
-                <h5>Specialize of course</h5>
-                <small class="fg-theme">University of Study</small>
+                <h5>WordPress Developer and SEO Executive</h5>
+                <small class="fg-theme">Pakistan Software Export Board (PSEB)</small>
                 <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered</p>
               </div>
             </li>
             <li>
-              <div class="title">2011</div>
+              <!-- <div class="title">2020</div> -->
               <div class="details">
-                <h5>Specialize of course</h5>
-                <small class="fg-theme">University of Study</small>
+                <h5>Web Development Intership</h5>
+                <small class="fg-theme">Acuity Software House</small>
                 <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered</p>
               </div>
             </li>
@@ -234,8 +234,8 @@
               <span class="ti-paint-bucket"></span>
             </div>
             <div class="caption">
-              <h4 class="fg-theme">Web Design</h4>
-              <p>There are many variations of passages of Lorem Ipsum available</p>
+              <h4 class="fg-theme">WordPress</h4>
+              <p>Experienced in using WordPress to design, develop, and maintain websites for small businesses</p>
             </div>
           </div>
         </div>
@@ -246,7 +246,7 @@
             </div>
             <div class="caption">
               <h4 class="fg-theme">SEO</h4>
-              <p>There are many variations of passages of Lorem Ipsum available</p>
+              <p>Experienced in SEO includes optimizing websites to improve their visibility and ranking in search engine results</p>
             </div>
           </div>
         </div>
@@ -256,8 +256,8 @@
               <span class="ti-vector"></span>
             </div>
             <div class="caption">
-              <h4 class="fg-theme">UI/UX Design</h4>
-              <p>There are many variations of passages of Lorem Ipsum available</p>
+              <h4 class="fg-theme">Google Ads</h4>
+              <p>Experienced in Google Ads includes creating and managing campaigns to advertise a business, product and other websites.</p>
             </div>
           </div>
         </div>
@@ -268,7 +268,7 @@
             </div>
             <div class="caption">
               <h4 class="fg-theme">Web Development</h4>
-              <p>There are many variations of passages of Lorem Ipsum available</p>
+              <p>Skilled web developer with strong front-end and back-end skills, delivering responsive and user-friendly websites</p>
             </div>
           </div>
         </div>
@@ -578,7 +578,7 @@
           </div>
         </div>
         <div class="col-lg-5">
-          <form class="vg-contact-form" action="success.php">
+          <form class="vg-contact-form" method="POST" action="success.php">
             <div class="form-row">
               <div class="col-12 mt-3 wow fadeInUp">
                 <input class="form-control" type="text" name="your_name" placeholder="Your Name">

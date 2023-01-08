@@ -1,22 +1,10 @@
-
-
 <?php 
-
-
 
     if($_REQUEST != "POST")
 
         //  header("Location: https://www.goflare.com/growth-consultant");
 
-
-
-
-
-
-
     if(isset($_POST['your_name']) && isset($_POST['your_email']) && isset($_POST['subject']) && isset($_POST['message']) ){
-
-        
 
         $name = $_POST['your_name'];
 
@@ -32,50 +20,31 @@
 
             'From: ' . $email,
 
-            'Reply-To: ' . $email,
-
-            
+            'Reply-To: ' . $email,    
 
         ];  // header
 
-
-
         $header = implode("\r\n", $header);
-
-
 
         $message = "Name: $name\nEmail: $email\nPhone: $subject \nCompany Size: $message";
 
-        $to = 'doctors@goflare.com';
+        $to = 'nouman.haider4881@gmail.com';
 
         $subject = 'Contact Form Submission';
 
         $mail_sent = mail($to, $subject, $message, $header);
-
-
-
+        dd(123);
         if($mail_sent)
 
             {
-
-                
-
-           
-
+             
             }
-
-
 
         else
 
             echo 'Mail not sent';
 
-
-
     } 
-
-   
-
 
 
 ?>
