@@ -196,7 +196,10 @@
               <div class="details">
                 <h5>Web Developer</h5>
                 <small class="fg-theme">Goflare Digital Solutions</small>
-                <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered</p>
+                <p>2+ years of Experience, I have
+created numerous responsive landing pages
+and websites for clients with HTML, CSS, Bootstrap, and
+JavaScript.</p>
               </div>
             </li>
             <li>
@@ -204,7 +207,8 @@
               <div class="details">
                 <h5>WordPress Developer and SEO Executive</h5>
                 <small class="fg-theme">Pakistan Software Export Board (PSEB)</small>
-                <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered</p>
+                <p>Experienced in designing and developing custom WordPress sites using page builders and custom coding. Skilled in SEO and Google Ads.
+</p>
               </div>
             </li>
             <li>
@@ -212,7 +216,8 @@
               <div class="details">
                 <h5>Web Development Intership</h5>
                 <small class="fg-theme">Acuity Software House</small>
-                <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered</p>
+                <p>I have completed a 3-month Internship in Acuity Softwares House during my study, where I polished my web development
+skills.</p>
               </div>
             </li>
           </ul>
@@ -280,19 +285,19 @@
     <div class="container">
       <div class="row section-counter">
         <div class="col-md-6 col-lg-3 py-4 wow fadeIn">
-          <h1 class="number" data-number="768">768</h1>
+          <h1 class="number" data-number="10">10+</h1>
           <span>Clients</span>
         </div>
         <div class="col-md-6 col-lg-3 py-4 wow fadeIn">
-          <h1 class="number" data-number="230">230</h1>
-          <span>Project Compleate</span>
+          <h1 class="number" data-number="10">20+</h1>
+          <span>Project Completed</span>
         </div>
         <div class="col-md-6 col-lg-3 py-4 wow fadeIn">
-          <h1 class="number" data-number="97">97</h1>
+          <h1 class="number" data-number="5">5</h1>
           <span>Project Ongoing</span>
         </div>
         <div class="col-md-6 col-lg-3 py-4 wow fadeIn">
-          <h1 class="number" data-number="699">699</h1>
+          <h1 class="number" data-number="20">20</h1>
           <span>Client Satisfaction</span>
         </div>
       </div>
@@ -387,8 +392,8 @@
           <div class="img-place" data-src="assets/img/work/apex-gif.gif" data-fancybox data-caption="<h5 class='fg-theme'>Game Streaming</h5> <p>Games, Streaming</p>">
             <img src="assets/img/work/apex-cons.jpg" alt="">
             <div class="img-caption">
-              <h5 class="fg-theme">Game Streaming</h5>
-              <p>Games, Streaming</p>
+              <h5 class="fg-theme">Apex Consultants</h5>
+              <p>Digital Marketing Consultants</p>
             </div>
           </div>
           <br>
